@@ -69,10 +69,10 @@ In order to run this project you will need the following:
 7. Create the `.yaml` file in the config folder and add the following:
 
     ```dotenv
-    env=LOCAL or TEST or PRODUCTION
-    bot_prefix="Your prefix for bot commands"
-    discord_token=Your discord token
-    youtube_key=Your youtube key
+    env: "LOCAL or TEST or PRODUCTION"
+    bot_prefix: "Your prefix for bot commands"
+    discord_token: "Your discord token"
+    youtube_key: "Your youtube key"
     ```
 
 ## Usage
